@@ -1,0 +1,8 @@
+2025-04-04 17:46:04,801 - StateFixerTool - INFO - Creating backup of user_bot.py to user_bot.py.before_state_fix_20250404_174604
+2025-04-04 17:46:04,805 - StateFixerTool - INFO - Added state debugging functions to user_bot.py
+2025-04-04 17:46:04,806 - StateFixerTool - INFO - Updated user state assignment in generate_session function
+2025-04-04 17:46:04,807 - StateFixerTool - INFO - Updated state deletion throughout the file
+2025-04-04 17:46:04,809 - StateFixerTool - INFO - Updated OTP handler to use new state management
+2025-04-04 17:46:04,811 - StateFixerTool - INFO - Updated handle_text_input to use clear_user_state
+2025-04-04 17:46:04,813 - StateFixerTool - WARNING - Could not find database initialization in run_bot function
+2025-04-04 17:46:04,813 - StateFixerTool - ERROR - Some fixes failed to apply

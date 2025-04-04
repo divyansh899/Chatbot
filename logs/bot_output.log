@@ -1,0 +1,109 @@
+2025-04-02 16:10:59,187 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2025-04-02 16:10:59,187 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:10:59,357 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2025-04-02 16:11:01,423 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2025-04-02 16:11:01,424 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:11:01,427 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:11:01,831 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2025-04-02 16:11:01,832 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-02 16:11:02,692 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-02 16:11:02,692 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-02 16:11:02,692 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-02 16:11:02,692 - pyrogram.session.session - INFO - Session started
+2025-04-02 16:11:02,694 - pyrogram.session.session - INFO - PingTask started
+2025-04-02 16:11:02,887 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-02 16:11:02,888 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-02 16:11:02,888 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:11:02,888 - pyrogram.session.session - INFO - Session stopped
+2025-04-02 16:11:02,895 - pyrogram.session.auth - INFO - Start creating a new auth key on DC5
+2025-04-02 16:11:02,895 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:11:03,077 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-02 16:11:04,821 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2025-04-02 16:11:04,822 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:11:04,825 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:11:04,973 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-02 16:11:04,973 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-02 16:11:05,532 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-02 16:11:05,532 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-02 16:11:05,532 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-02 16:11:05,532 - pyrogram.session.session - INFO - Session started
+2025-04-02 16:11:05,533 - pyrogram.session.session - INFO - PingTask started
+2025-04-02 16:11:06,061 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-04-02 16:13:09,836 - pyrogram.dispatcher - ERROR - Telegram says: [400 MESSAGE_NOT_MODIFIED] - The message was not modified because you tried to edit it using the same content (caused by "messages.EditMessage")
+Traceback (most recent call last):
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/user_bot.py", line 2722, in confirm_clear_inventory
+    status_message = await callback_query.message.edit_text(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/types/messages_and_media/message.py", line 2803, in edit_text
+    return await self._client.edit_message_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/methods/messages/edit_message_text.py", line 82, in edit_message_text
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/divyanshchugh/Desktop/telegram chat bot/venv/lib/python3.13/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+    ...<5 lines>...
+      is_signed=is_signed)
+pyrogram.errors.exceptions.bad_request_400.MessageNotModified: Telegram says: [400 MESSAGE_NOT_MODIFIED] - The message was not modified because you tried to edit it using the same content (caused by "messages.EditMessage")
+2025-04-02 16:16:12,681 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-02 16:16:12,682 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-02 16:16:12,682 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-02 16:16:12,682 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:16:12,683 - pyrogram.session.session - INFO - Session stopped
+2025-04-02 16:16:12,683 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:16:12,847 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-02 16:16:12,848 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-02 16:16:13,350 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-02 16:16:13,350 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-02 16:16:13,350 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-02 16:16:13,351 - pyrogram.session.session - INFO - Session started
+2025-04-02 16:16:13,351 - pyrogram.session.session - INFO - PingTask started
+2025-04-02 16:20:59,290 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-02 16:20:59,291 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-02 16:20:59,291 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-02 16:20:59,291 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:20:59,291 - pyrogram.session.session - INFO - Session stopped
+2025-04-02 16:20:59,291 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:20:59,401 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-02 16:20:59,401 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-02 16:21:00,291 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-02 16:21:00,291 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-02 16:21:00,291 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-02 16:21:00,291 - pyrogram.session.session - INFO - Session started
+2025-04-02 16:21:00,291 - pyrogram.session.session - INFO - PingTask started
+2025-04-02 16:43:17,664 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-02 16:43:17,666 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-02 16:43:17,667 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-02 16:43:17,667 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-02 16:43:17,667 - pyrogram.session.session - INFO - Session stopped
+2025-04-02 16:43:17,667 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-02 16:43:17,848 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-02 16:43:17,848 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-02 16:43:18,564 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-02 16:43:18,565 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-02 16:43:18,565 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-02 16:43:18,565 - pyrogram.session.session - INFO - Session started
+2025-04-02 16:43:18,565 - pyrogram.session.session - INFO - PingTask started

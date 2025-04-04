@@ -1,0 +1,6 @@
+2025-04-04 17:47:39,171 - INFO - Created backup of user_bot.py at user_bot.py.backup_20250404_174739
+2025-04-04 17:47:39,173 - ERROR - Could not find OTP handler function
+2025-04-04 17:47:39,175 - INFO - Fixed generate_session state management
+2025-04-04 17:47:39,178 - INFO - Fixed text handler state management
+2025-04-04 17:47:39,180 - INFO - Added startup cleanup code
+2025-04-04 17:47:39,180 - WARNING - Some fixes failed to apply

@@ -1,0 +1,9 @@
+2025-04-03 22:51:45,619 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-03 22:51:45,882 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-03 22:51:45,883 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-03 22:51:46,646 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-03 22:51:46,647 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-03 22:51:46,647 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-03 22:51:46,647 - pyrogram.session.session - INFO - Session started
+2025-04-03 22:51:46,652 - pyrogram.session.session - INFO - PingTask started
+2025-04-03 22:51:46,895 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks

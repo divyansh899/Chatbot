@@ -1,0 +1,15 @@
+2025-04-04 18:11:34,296 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 18:11:34,395 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 18:11:34,395 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 18:11:34,894 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 18:11:34,894 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 18:11:34,894 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 18:11:34,894 - pyrogram.session.session - INFO - Session started
+2025-04-04 18:11:34,896 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 18:11:35,136 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-04-04 18:15:28,034 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:15:28,133 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:15:29,134 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:15:29,135 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:15:52,106 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:15:52,200 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!

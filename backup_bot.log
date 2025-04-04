@@ -1,0 +1,1052 @@
+2025-04-04 18:11:37,271 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 18:11:37,363 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 18:11:37,364 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 18:11:37,805 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 18:11:37,805 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 18:11:37,805 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 18:11:37,805 - pyrogram.session.session - INFO - Session started
+2025-04-04 18:11:37,807 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 18:11:38,102 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-04-04 18:19:52,109 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:19:52,212 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:19:52,933 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:19:52,934 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:19:57,574 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:19:57,700 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:19:58,413 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:19:58,414 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:19:58,417 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:20:38,850 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:20:40,529 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:20:41,679 - telethon.client.users - INFO - Phone migrated to 5
+2025-04-04 18:20:41,679 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2025-04-04 18:20:41,866 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:20:41,867 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:20:41,868 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:20:43,212 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:20:59,408 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:20:59,515 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:21:00,840 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:21:00,841 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:21:00,850 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:21:10,128 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:21:10,224 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:21:45,007 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:21:47,402 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:21:48,458 - telethon.client.users - INFO - Phone migrated to 5
+2025-04-04 18:21:48,459 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2025-04-04 18:21:48,461 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:21:48,462 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:21:48,463 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:21:50,396 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:21:59,565 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:21:59,655 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:22:00,372 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:22:00,373 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:22:00,380 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:22:21,317 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:22:21,436 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:24:33,362 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:24:35,052 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:24:36,162 - telethon.client.users - INFO - Phone migrated to 5
+2025-04-04 18:24:36,162 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2025-04-04 18:24:36,165 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:24:36,165 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:24:36,166 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:24:37,752 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:24:53,867 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:24:53,960 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:24:54,864 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:24:54,865 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:24:54,872 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:25:10,694 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:25:10,791 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:26:43,209 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:26:45,272 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:26:46,232 - telethon.client.users - INFO - Phone migrated to 5
+2025-04-04 18:26:46,233 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2025-04-04 18:26:46,236 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:26:46,237 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:26:46,237 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:26:47,915 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:27:01,410 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:27:01,508 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:27:02,123 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:27:02,124 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:27:02,130 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:27:07,218 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:27:07,319 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:28:06,470 - telethon.client.updates - INFO - Got difference for account updates
+Database indexes created
+Griffin VIP Bot (Backup) is running...
+Starting Griffin VIP Backup Bot...
+Checking for active virtual numbers that need monitoring...
+Started OTP monitoring for 0 previously sold numbers
+Checking for numbers with sessions that need login...
+Verified 0 number sessions with valid authorization
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generate session requested for number: +8801337413030
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Stored authentication data for user 7536665814, phone +8801337413030
+Using auth data from user_states for 7536665814, phone +8801337413030
+Generated session string for +8801337413030: 1BVtsOGcBuynVD3...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +8801335407868 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801337413030', 'step': 'started'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'bd', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +8801335407868
+Number added to inventory with ID: 67efd59769508a9d5c83147b
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +8801335407868
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +8801335407868: 1BVtsOGcBuwZ6dy...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +8801335407868, forwarding to user 7536665814
+Number +8801335407868 is sold to user: None
+Creating new Telethon client for +8801335407868
+Client for +8801335407868 authorized: True
+Starting OTP monitoring for +8801335407868...
+✅ Successfully started OTP monitoring for +8801335407868
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +8801337413045 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801337413030', 'step': 'started'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'bd', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +8801337413045
+Number added to inventory with ID: 67efd5d869508a9d5c83147c
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +8801337413045
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +8801337413045: 1BVtsOGcBuzOHjE...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +8801337413045, forwarding to user 7536665814
+Number +8801337413045 is sold to user: None
+Creating new Telethon client for +8801337413045
+Client for +8801337413045 authorized: True
+Starting OTP monitoring for +8801337413045...
+✅ Successfully started OTP monitoring for +8801337413045
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +8801338065559 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801337413030', 'step': 'started'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'bd', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +8801338065559
+Number added to inventory with ID: 67efd68269508a9d5c83147d
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +8801338065559
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +8801338065559: 1BVtsOGcBu3HbYD...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +8801338065559, forwarding to user 7536665814
+Number +8801338065559 is sold to user: None
+Creating new Telethon client for +8801338065559
+Client for +8801338065559 authorized: True
+Starting OTP monitoring for +8801338065559...
+✅ Successfully started OTP monitoring for +8801338065559
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +918588829002 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801335391763', 'step': 'started'}, 'phone_auth': {'phone_number': '+8801335391763', 'phone_code_hash': '361df3f1c5db3792a7', 'step': 'waiting_for_code'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'ind', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +918588829002
+Number added to inventory with ID: 67efd6fd69508a9d5c83147e
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +918588829002
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +918588829002: 1BVtsOGcBu6csmr...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +918588829002, forwarding to user 7536665814
+Number +918588829002 is sold to user: None
+Creating new Telethon client for +918588829002
+Client for +918588829002 authorized: True
+Starting OTP monitoring for +918588829002...
+✅ Successfully started OTP monitoring for +918588829002
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True2025-04-04 18:31:44,001 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:31:46,210 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:31:47,256 - telethon.client.users - INFO - Phone migrated to 5
+2025-04-04 18:31:47,257 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2025-04-04 18:31:47,259 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:31:47,259 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:31:47,260 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:31:48,909 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:31:55,882 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:31:55,977 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:31:56,763 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 18:31:56,763 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:31:56,768 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:32:04,069 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 18:32:04,164 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 18:32:14,767 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 18:35:50,407 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:35:52,500 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:35:53,451 - telethon.client.users - INFO - Phone migrated to 1
+2025-04-04 18:35:53,451 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 1
+2025-04-04 18:35:53,454 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:35:53,455 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:35:53,455 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:35:55,759 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:36:43,406 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:36:43,682 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:36:45,309 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-04-04 18:36:45,310 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:36:45,317 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:36:51,017 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:36:51,351 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:37:39,157 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-04 18:37:42,862 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:37:44,114 - telethon.client.users - INFO - Phone migrated to 1
+2025-04-04 18:37:44,114 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 1
+2025-04-04 18:37:44,116 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-04 18:37:44,117 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-04 18:37:44,118 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:37:46,599 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:38:12,268 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:38:12,562 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:38:14,351 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-04-04 18:38:14,352 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:38:14,360 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 18:38:21,840 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 18:38:22,075 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 18:43:06,590 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 18:47:16,011 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:03:22,138 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:13:06,940 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:21:53,332 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:23:24,108 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:39:01,198 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-04 19:39:01,199 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-04 19:39:01,200 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-04 19:39:01,207 - pyrogram.session.session - INFO - Session stopped
+2025-04-04 19:39:01,209 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 19:39:02,589 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 19:39:02,590 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 19:39:03,403 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 19:39:03,404 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 19:39:03,404 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 19:39:03,404 - pyrogram.session.session - INFO - Session started
+2025-04-04 19:39:03,404 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 19:45:39,162 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 19:45:39,164 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 20:00:39,404 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 20:00:39,406 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 20:30:39,951 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 20:30:39,955 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 21:00:40,522 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 21:00:40,526 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 21:14:07,108 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-04 21:14:07,110 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-04 21:14:07,111 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-04 21:14:07,111 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-04 21:14:07,111 - pyrogram.session.session - INFO - Session stopped
+2025-04-04 21:14:07,111 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 21:14:07,228 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 21:14:07,229 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 21:14:07,614 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 21:14:07,615 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 21:14:07,615 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 21:14:07,615 - pyrogram.session.session - INFO - Session started
+2025-04-04 21:14:07,615 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 21:24:33,084 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-04 21:24:33,085 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-04 21:24:33,085 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-04 21:24:33,085 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-04 21:24:33,085 - pyrogram.session.session - INFO - Session stopped
+2025-04-04 21:24:33,085 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 21:24:33,176 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 21:24:33,176 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 21:24:33,510 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 21:24:33,511 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 21:24:33,511 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 21:24:33,511 - pyrogram.session.session - INFO - Session started
+2025-04-04 21:24:33,511 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 21:25:07,146 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483475825969153, ignoring (see FAQ for details)
+2025-04-04 21:25:07,147 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483476619368449, ignoring (see FAQ for details)
+2025-04-04 21:25:07,379 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483485841472513, ignoring (see FAQ for details)
+2025-04-04 21:25:07,380 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483500202062849, ignoring (see FAQ for details)
+2025-04-04 21:25:07,380 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483506143915009, ignoring (see FAQ for details)
+2025-04-04 21:25:07,381 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483518726710273, ignoring (see FAQ for details)
+2025-04-04 21:25:07,381 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483524488779777, ignoring (see FAQ for details)
+2025-04-04 21:25:07,381 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483538435603457, ignoring (see FAQ for details)
+2025-04-04 21:25:07,382 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483578957088769, ignoring (see FAQ for details)
+2025-04-04 21:25:07,382 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483589829006337, ignoring (see FAQ for details)
+2025-04-04 21:25:07,383 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,387 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483600863089665, ignoring (see FAQ for details)
+2025-04-04 21:25:07,388 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,388 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483619434934273, ignoring (see FAQ for details)
+2025-04-04 21:25:07,388 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,388 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483634249019393, ignoring (see FAQ for details)
+2025-04-04 21:25:07,388 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,388 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483638170702849, ignoring (see FAQ for details)
+2025-04-04 21:25:07,388 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,389 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483663693777921, ignoring (see FAQ for details)
+2025-04-04 21:25:07,389 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,389 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483699236274177, ignoring (see FAQ for details)
+2025-04-04 21:25:07,389 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,389 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483717736987649, ignoring (see FAQ for details)
+2025-04-04 21:25:07,389 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,389 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483722764666881, ignoring (see FAQ for details)
+2025-04-04 21:25:07,389 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483723820591105, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483736945472513, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483740502822913, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483783064403969, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483804502495233, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,390 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483811697569793, ignoring (see FAQ for details)
+2025-04-04 21:25:07,390 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,391 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483817550259201, ignoring (see FAQ for details)
+2025-04-04 21:25:07,391 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,391 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483817763903489, ignoring (see FAQ for details)
+2025-04-04 21:25:07,391 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,391 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483827530609665, ignoring (see FAQ for details)
+2025-04-04 21:25:07,391 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,391 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483833277779969, ignoring (see FAQ for details)
+2025-04-04 21:25:07,391 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,391 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483845548386305, ignoring (see FAQ for details)
+2025-04-04 21:25:07,391 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,392 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483883827027969, ignoring (see FAQ for details)
+2025-04-04 21:25:07,392 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,392 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483888873246721, ignoring (see FAQ for details)
+2025-04-04 21:25:07,392 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,392 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483897489415169, ignoring (see FAQ for details)
+2025-04-04 21:25:07,392 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,393 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483907211272193, ignoring (see FAQ for details)
+2025-04-04 21:25:07,393 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,393 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483912083204097, ignoring (see FAQ for details)
+2025-04-04 21:25:07,393 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,393 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483921494521857, ignoring (see FAQ for details)
+2025-04-04 21:25:07,393 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,393 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483932984851457, ignoring (see FAQ for details)
+2025-04-04 21:25:07,393 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,401 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483951997535233, ignoring (see FAQ for details)
+2025-04-04 21:25:07,401 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483974467558401, ignoring (see FAQ for details)
+2025-04-04 21:25:07,402 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483977208054785, ignoring (see FAQ for details)
+2025-04-04 21:25:07,402 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483978377402369, ignoring (see FAQ for details)
+2025-04-04 21:25:07,402 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483999062725633, ignoring (see FAQ for details)
+2025-04-04 21:25:07,402 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483999332504577, ignoring (see FAQ for details)
+2025-04-04 21:25:07,402 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,402 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484012225715201, ignoring (see FAQ for details)
+2025-04-04 21:25:07,403 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,403 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484018468498433, ignoring (see FAQ for details)
+2025-04-04 21:25:07,403 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,403 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484026570329089, ignoring (see FAQ for details)
+2025-04-04 21:25:07,403 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,403 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484028237344769, ignoring (see FAQ for details)
+2025-04-04 21:25:07,403 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,408 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484031427544065, ignoring (see FAQ for details)
+2025-04-04 21:25:07,408 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,408 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484033302969345, ignoring (see FAQ for details)
+2025-04-04 21:25:07,408 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,408 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484050257861633, ignoring (see FAQ for details)
+2025-04-04 21:25:07,408 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,409 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484063882191873, ignoring (see FAQ for details)
+2025-04-04 21:25:07,409 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,409 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484067022496769, ignoring (see FAQ for details)
+2025-04-04 21:25:07,409 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,409 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484075204846593, ignoring (see FAQ for details)
+2025-04-04 21:25:07,409 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,409 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484087380750337, ignoring (see FAQ for details)
+2025-04-04 21:25:07,409 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,414 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484101143511041, ignoring (see FAQ for details)
+2025-04-04 21:25:07,414 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,414 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484101161695233, ignoring (see FAQ for details)
+2025-04-04 21:25:07,414 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,414 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484103232627713, ignoring (see FAQ for details)
+2025-04-04 21:25:07,414 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,415 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484105172324353, ignoring (see FAQ for details)
+2025-04-04 21:25:07,415 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,415 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484106022938625, ignoring (see FAQ for details)
+2025-04-04 21:25:07,415 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,415 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484110591334401, ignoring (see FAQ for details)
+2025-04-04 21:25:07,415 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,415 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484115594457089, ignoring (see FAQ for details)
+2025-04-04 21:25:07,415 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,415 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484127605191681, ignoring (see FAQ for details)
+2025-04-04 21:25:07,415 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,416 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484145650369537, ignoring (see FAQ for details)
+2025-04-04 21:25:07,416 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,416 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484147524763649, ignoring (see FAQ for details)
+2025-04-04 21:25:07,416 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,428 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484163124662273, ignoring (see FAQ for details)
+2025-04-04 21:25:07,428 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,428 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484171363301377, ignoring (see FAQ for details)
+2025-04-04 21:25:07,428 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,429 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484175761761281, ignoring (see FAQ for details)
+2025-04-04 21:25:07,429 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,429 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484185560303617, ignoring (see FAQ for details)
+2025-04-04 21:25:07,429 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,429 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484193632095233, ignoring (see FAQ for details)
+2025-04-04 21:25:07,429 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,429 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484194494998529, ignoring (see FAQ for details)
+2025-04-04 21:25:07,429 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,429 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484202202872833, ignoring (see FAQ for details)
+2025-04-04 21:25:07,430 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,435 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484204326353921, ignoring (see FAQ for details)
+2025-04-04 21:25:07,435 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,435 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484232393660417, ignoring (see FAQ for details)
+2025-04-04 21:25:07,435 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,436 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484234621236225, ignoring (see FAQ for details)
+2025-04-04 21:25:07,436 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,436 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484246561781761, ignoring (see FAQ for details)
+2025-04-04 21:25:07,436 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,436 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484248751520769, ignoring (see FAQ for details)
+2025-04-04 21:25:07,436 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,436 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484260156683265, ignoring (see FAQ for details)
+2025-04-04 21:25:07,436 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,437 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484266898680833, ignoring (see FAQ for details)
+2025-04-04 21:25:07,437 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,437 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484272196114433, ignoring (see FAQ for details)
+2025-04-04 21:25:07,437 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,437 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484292783275009, ignoring (see FAQ for details)
+2025-04-04 21:25:07,437 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,437 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484293385832449, ignoring (see FAQ for details)
+2025-04-04 21:25:07,437 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,448 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484298982097921, ignoring (see FAQ for details)
+2025-04-04 21:25:07,449 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,449 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484319864224769, ignoring (see FAQ for details)
+2025-04-04 21:25:07,449 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,449 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484321448509441, ignoring (see FAQ for details)
+2025-04-04 21:25:07,449 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,449 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484328457188353, ignoring (see FAQ for details)
+2025-04-04 21:25:07,450 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,450 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484343541328897, ignoring (see FAQ for details)
+2025-04-04 21:25:07,450 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,450 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484386218357761, ignoring (see FAQ for details)
+2025-04-04 21:25:07,450 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,450 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484392327591937, ignoring (see FAQ for details)
+2025-04-04 21:25:07,450 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,453 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484392698244097, ignoring (see FAQ for details)
+2025-04-04 21:25:07,453 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,453 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484398058633217, ignoring (see FAQ for details)
+2025-04-04 21:25:07,453 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,454 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484407671891969, ignoring (see FAQ for details)
+2025-04-04 21:25:07,454 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,454 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484408791063553, ignoring (see FAQ for details)
+2025-04-04 21:25:07,454 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,455 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484424882381825, ignoring (see FAQ for details)
+2025-04-04 21:25:07,455 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,455 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484452272854017, ignoring (see FAQ for details)
+2025-04-04 21:25:07,455 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,456 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484456492764161, ignoring (see FAQ for details)
+2025-04-04 21:25:07,456 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,456 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484462505444353, ignoring (see FAQ for details)
+2025-04-04 21:25:07,456 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,456 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484466550188033, ignoring (see FAQ for details)
+2025-04-04 21:25:07,456 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,456 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484498545918977, ignoring (see FAQ for details)
+2025-04-04 21:25:07,456 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,463 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484506519142401, ignoring (see FAQ for details)
+2025-04-04 21:25:07,463 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,463 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484532603520001, ignoring (see FAQ for details)
+2025-04-04 21:25:07,463 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,464 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484570763048961, ignoring (see FAQ for details)
+2025-04-04 21:25:07,464 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,464 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484586964078593, ignoring (see FAQ for details)
+2025-04-04 21:25:07,464 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,464 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484602501317633, ignoring (see FAQ for details)
+2025-04-04 21:25:07,464 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,464 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484629212592129, ignoring (see FAQ for details)
+2025-04-04 21:25:07,464 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,465 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484644708702209, ignoring (see FAQ for details)
+2025-04-04 21:25:07,465 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,479 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484645949702145, ignoring (see FAQ for details)
+2025-04-04 21:25:07,479 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,479 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484647724078081, ignoring (see FAQ for details)
+2025-04-04 21:25:07,479 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,480 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484686232827905, ignoring (see FAQ for details)
+2025-04-04 21:25:07,480 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,480 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484708909688833, ignoring (see FAQ for details)
+2025-04-04 21:25:07,480 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,480 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484731035197441, ignoring (see FAQ for details)
+2025-04-04 21:25:07,480 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,481 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484762957217793, ignoring (see FAQ for details)
+2025-04-04 21:25:07,481 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,481 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484775366110209, ignoring (see FAQ for details)
+2025-04-04 21:25:07,481 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,481 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484782244509697, ignoring (see FAQ for details)
+2025-04-04 21:25:07,482 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,482 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484845651408897, ignoring (see FAQ for details)
+2025-04-04 21:25:07,482 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,482 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484869596903425, ignoring (see FAQ for details)
+2025-04-04 21:25:07,482 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,482 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484875026588673, ignoring (see FAQ for details)
+2025-04-04 21:25:07,482 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,483 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484896024293377, ignoring (see FAQ for details)
+2025-04-04 21:25:07,483 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,483 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484911621483521, ignoring (see FAQ for details)
+2025-04-04 21:25:07,483 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,483 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484952853909505, ignoring (see FAQ for details)
+2025-04-04 21:25:07,483 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,483 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484974002142209, ignoring (see FAQ for details)
+2025-04-04 21:25:07,483 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,483 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484989445278721, ignoring (see FAQ for details)
+2025-04-04 21:25:07,483 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,484 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485025756590081, ignoring (see FAQ for details)
+2025-04-04 21:25:07,484 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,493 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485044369467393, ignoring (see FAQ for details)
+2025-04-04 21:25:07,493 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,493 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485046608532481, ignoring (see FAQ for details)
+2025-04-04 21:25:07,493 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,493 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485072536584193, ignoring (see FAQ for details)
+2025-04-04 21:25:07,494 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,494 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485083142646785, ignoring (see FAQ for details)
+2025-04-04 21:25:07,494 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,494 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485085480888321, ignoring (see FAQ for details)
+2025-04-04 21:25:07,494 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,494 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485098689084417, ignoring (see FAQ for details)
+2025-04-04 21:25:07,494 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,494 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485114334512129, ignoring (see FAQ for details)
+2025-04-04 21:25:07,494 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,495 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485134212195329, ignoring (see FAQ for details)
+2025-04-04 21:25:07,495 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,495 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485177195917313, ignoring (see FAQ for details)
+2025-04-04 21:25:07,495 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,495 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485181319441409, ignoring (see FAQ for details)
+2025-04-04 21:25:07,495 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,501 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485196198595585, ignoring (see FAQ for details)
+2025-04-04 21:25:07,501 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,502 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485198848039937, ignoring (see FAQ for details)
+2025-04-04 21:25:07,502 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,502 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485227603657729, ignoring (see FAQ for details)
+2025-04-04 21:25:07,502 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,502 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485241834032129, ignoring (see FAQ for details)
+2025-04-04 21:25:07,502 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,503 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485267112948737, ignoring (see FAQ for details)
+2025-04-04 21:25:07,503 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,503 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485269959168001, ignoring (see FAQ for details)
+2025-04-04 21:25:07,503 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,503 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485285180312577, ignoring (see FAQ for details)
+2025-04-04 21:25:07,503 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,510 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485296087208961, ignoring (see FAQ for details)
+2025-04-04 21:25:07,510 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,511 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485322873128961, ignoring (see FAQ for details)
+2025-04-04 21:25:07,511 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,511 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485375512364033, ignoring (see FAQ for details)
+2025-04-04 21:25:07,511 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,511 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485413705158657, ignoring (see FAQ for details)
+2025-04-04 21:25:07,511 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,511 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485434810326017, ignoring (see FAQ for details)
+2025-04-04 21:25:07,511 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,512 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485436273198081, ignoring (see FAQ for details)
+2025-04-04 21:25:07,512 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,512 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485444260819969, ignoring (see FAQ for details)
+2025-04-04 21:25:07,512 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,512 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485451168260097, ignoring (see FAQ for details)
+2025-04-04 21:25:07,512 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,513 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485453285328897, ignoring (see FAQ for details)
+2025-04-04 21:25:07,513 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,513 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485461521657857, ignoring (see FAQ for details)
+2025-04-04 21:25:07,513 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,520 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485463313811457, ignoring (see FAQ for details)
+2025-04-04 21:25:07,521 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,521 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485539529759745, ignoring (see FAQ for details)
+2025-04-04 21:25:07,521 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,521 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485552858652673, ignoring (see FAQ for details)
+2025-04-04 21:25:07,522 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,522 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485553058520065, ignoring (see FAQ for details)
+2025-04-04 21:25:07,522 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,524 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485554099208193, ignoring (see FAQ for details)
+2025-04-04 21:25:07,524 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,524 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485638422936577, ignoring (see FAQ for details)
+2025-04-04 21:25:07,524 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,525 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485661139389441, ignoring (see FAQ for details)
+2025-04-04 21:25:07,525 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,526 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485684753331201, ignoring (see FAQ for details)
+2025-04-04 21:25:07,526 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,526 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485692190936065, ignoring (see FAQ for details)
+2025-04-04 21:25:07,526 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,527 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485700114408449, ignoring (see FAQ for details)
+2025-04-04 21:25:07,527 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,527 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485718231908353, ignoring (see FAQ for details)
+2025-04-04 21:25:07,527 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,527 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485750251406337, ignoring (see FAQ for details)
+2025-04-04 21:25:07,527 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:07,527 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485808335894529, ignoring (see FAQ for details)
+2025-04-04 21:25:07,527 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,299 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483485839798273, ignoring (see FAQ for details)
+2025-04-04 21:25:13,585 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483500198534145, ignoring (see FAQ for details)
+2025-04-04 21:25:13,586 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483506142404609, ignoring (see FAQ for details)
+2025-04-04 21:25:13,587 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483509796465665, ignoring (see FAQ for details)
+2025-04-04 21:25:13,587 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483518723812353, ignoring (see FAQ for details)
+2025-04-04 21:25:13,587 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483538433829889, ignoring (see FAQ for details)
+2025-04-04 21:25:13,587 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483578955382785, ignoring (see FAQ for details)
+2025-04-04 21:25:13,588 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483589828048897, ignoring (see FAQ for details)
+2025-04-04 21:25:13,588 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483600862128129, ignoring (see FAQ for details)
+2025-04-04 21:25:13,588 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483619434122241, ignoring (see FAQ for details)
+2025-04-04 21:25:13,588 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,589 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483634246792193, ignoring (see FAQ for details)
+2025-04-04 21:25:13,589 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,589 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483638169316353, ignoring (see FAQ for details)
+2025-04-04 21:25:13,589 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,589 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483640297634817, ignoring (see FAQ for details)
+2025-04-04 21:25:13,589 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,589 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483657840707585, ignoring (see FAQ for details)
+2025-04-04 21:25:13,589 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,590 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483663692678145, ignoring (see FAQ for details)
+2025-04-04 21:25:13,590 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,590 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483699235236865, ignoring (see FAQ for details)
+2025-04-04 21:25:13,590 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,590 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483722764096513, ignoring (see FAQ for details)
+2025-04-04 21:25:13,590 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,590 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483736943157249, ignoring (see FAQ for details)
+2025-04-04 21:25:13,591 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,591 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483783062353921, ignoring (see FAQ for details)
+2025-04-04 21:25:13,591 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,591 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483804500749313, ignoring (see FAQ for details)
+2025-04-04 21:25:13,591 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,591 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483807930135553, ignoring (see FAQ for details)
+2025-04-04 21:25:13,591 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,592 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483817548781569, ignoring (see FAQ for details)
+2025-04-04 21:25:13,592 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,592 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483827529347073, ignoring (see FAQ for details)
+2025-04-04 21:25:13,592 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,592 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483845546586113, ignoring (see FAQ for details)
+2025-04-04 21:25:13,592 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,592 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483888870385665, ignoring (see FAQ for details)
+2025-04-04 21:25:13,592 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,592 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483897488656385, ignoring (see FAQ for details)
+2025-04-04 21:25:13,593 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,593 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483912081636353, ignoring (see FAQ for details)
+2025-04-04 21:25:13,593 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,593 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483921492899841, ignoring (see FAQ for details)
+2025-04-04 21:25:13,593 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,593 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483932982912001, ignoring (see FAQ for details)
+2025-04-04 21:25:13,593 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,593 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483951997658113, ignoring (see FAQ for details)
+2025-04-04 21:25:13,593 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,593 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483977206812673, ignoring (see FAQ for details)
+2025-04-04 21:25:13,594 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,594 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483978375829505, ignoring (see FAQ for details)
+2025-04-04 21:25:13,594 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,594 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483987300368385, ignoring (see FAQ for details)
+2025-04-04 21:25:13,594 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,594 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483999061862401, ignoring (see FAQ for details)
+2025-04-04 21:25:13,594 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,594 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489483999330050049, ignoring (see FAQ for details)
+2025-04-04 21:25:13,594 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,595 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484012223568897, ignoring (see FAQ for details)
+2025-04-04 21:25:13,595 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,595 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484018466247681, ignoring (see FAQ for details)
+2025-04-04 21:25:13,595 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,595 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484026568599553, ignoring (see FAQ for details)
+2025-04-04 21:25:13,595 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,595 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484028236079105, ignoring (see FAQ for details)
+2025-04-04 21:25:13,595 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,595 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484031425824769, ignoring (see FAQ for details)
+2025-04-04 21:25:13,595 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,596 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484033301781505, ignoring (see FAQ for details)
+2025-04-04 21:25:13,596 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,596 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484050256968705, ignoring (see FAQ for details)
+2025-04-04 21:25:13,596 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,596 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484063880834049, ignoring (see FAQ for details)
+2025-04-04 21:25:13,596 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,596 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484067020518401, ignoring (see FAQ for details)
+2025-04-04 21:25:13,597 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,597 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484075204048897, ignoring (see FAQ for details)
+2025-04-04 21:25:13,597 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,597 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484087379467265, ignoring (see FAQ for details)
+2025-04-04 21:25:13,597 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,597 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484103231209473, ignoring (see FAQ for details)
+2025-04-04 21:25:13,597 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,597 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484105168813057, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,598 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484106021664769, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,598 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484110589448193, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,598 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484115593390081, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,598 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484127603731457, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,598 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484145649193985, ignoring (see FAQ for details)
+2025-04-04 21:25:13,598 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484147522605057, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484163123411969, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484171362629633, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484175761090561, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484185558027265, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,599 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484193630622721, ignoring (see FAQ for details)
+2025-04-04 21:25:13,599 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484194495588353, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484202201539585, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484204324925441, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484232388773889, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484234619224065, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,600 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484246560547841, ignoring (see FAQ for details)
+2025-04-04 21:25:13,600 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484248749140993, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484260154845185, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484266896404481, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484272193428481, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484292782094337, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,601 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484293384566785, ignoring (see FAQ for details)
+2025-04-04 21:25:13,601 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484298977173505, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484321447729153, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484328455595009, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484343539794945, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484386217080833, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,602 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484392326115329, ignoring (see FAQ for details)
+2025-04-04 21:25:13,602 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484392697697281, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484398057150465, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484408788513793, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484452270858241, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484456492281857, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,603 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484457301466113, ignoring (see FAQ for details)
+2025-04-04 21:25:13,603 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484462503309313, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484466548467713, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484498540627969, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484500487203841, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484501461562369, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484506517919745, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,604 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484570761170945, ignoring (see FAQ for details)
+2025-04-04 21:25:13,604 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484575021936641, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484586962198529, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484602499116033, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484610936970241, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484624747812865, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484629211371521, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,605 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484644705390593, ignoring (see FAQ for details)
+2025-04-04 21:25:13,605 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484647723230209, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484698707976193, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484708907295745, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484731033863169, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484762953908225, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484775362777089, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,606 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484782243298305, ignoring (see FAQ for details)
+2025-04-04 21:25:13,606 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484845649017857, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484869592216577, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484875025027073, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484896023212033, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484907599884289, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484952852768769, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,607 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484956671627265, ignoring (see FAQ for details)
+2025-04-04 21:25:13,607 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484974000647169, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489484989443922945, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485025755233281, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485030115572737, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485046606486529, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485072535050241, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,608 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485083139585025, ignoring (see FAQ for details)
+2025-04-04 21:25:13,608 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485085479059457, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485098687605761, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485114333003777, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485134207967233, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485177194492929, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485181317805057, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485196198853633, ignoring (see FAQ for details)
+2025-04-04 21:25:13,609 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,609 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485198846115841, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485227601515521, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485241832967169, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485296085915649, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485322871942145, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485375512183809, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485413703695361, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,610 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485434808775681, ignoring (see FAQ for details)
+2025-04-04 21:25:13,610 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,611 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485436270981121, ignoring (see FAQ for details)
+2025-04-04 21:25:13,611 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,611 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485443947458561, ignoring (see FAQ for details)
+2025-04-04 21:25:13,611 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,611 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485444256605185, ignoring (see FAQ for details)
+2025-04-04 21:25:13,611 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,616 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485451166803969, ignoring (see FAQ for details)
+2025-04-04 21:25:13,616 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485453283832833, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485461521112065, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485463313028097, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485523468988417, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485539531315201, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485552857804801, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,617 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485553057792001, ignoring (see FAQ for details)
+2025-04-04 21:25:13,617 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485554096676865, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485626186658817, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485638422169601, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485661138301953, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485684752262145, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485692189721601, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,618 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485700112854017, ignoring (see FAQ for details)
+2025-04-04 21:25:13,618 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,619 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485713958293505, ignoring (see FAQ for details)
+2025-04-04 21:25:13,619 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,619 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485718230419457, ignoring (see FAQ for details)
+2025-04-04 21:25:13,619 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,627 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485750246918145, ignoring (see FAQ for details)
+2025-04-04 21:25:13,627 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,628 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485792868497409, ignoring (see FAQ for details)
+2025-04-04 21:25:13,628 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:13,628 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489485808334076929, ignoring (see FAQ for details)
+2025-04-04 21:25:13,628 - telethon.network.mtprotosender - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-04 21:25:29,040 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-04 21:25:29,044 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 21:25:29,344 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 21:28:46,264 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 21:28:46,874 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 21:50:36,172 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-04 21:50:36,173 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-04 21:50:36,173 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-04 21:50:36,174 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-04 21:50:36,174 - pyrogram.session.session - INFO - Session stopped
+2025-04-04 21:50:36,174 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 21:50:36,332 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 21:50:36,333 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 21:50:36,752 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 21:50:36,752 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 21:50:36,752 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 21:50:36,752 - pyrogram.session.session - INFO - Session started
+2025-04-04 21:50:36,753 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 21:51:24,357 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489492149178956801, ignoring (see FAQ for details)
+2025-04-04 21:51:24,462 - telethon.network.mtprotostate - WARNING - Server sent a very old message with ID 7489492182758108161, ignoring (see FAQ for details)
+2025-04-04 21:51:55,591 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-04 21:51:55,594 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 21:51:55,930 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 21:52:26,180 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-04 21:52:26,182 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 21:52:26,551 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 21:55:35,185 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-04-04 21:55:35,187 - pyrogram.session.session - INFO - PingTask stopped
+2025-04-04 21:55:35,187 - pyrogram.connection.transport.tcp.tcp - INFO - Close exception: ConnectionResetError [Errno 54] Connection reset by peer
+2025-04-04 21:55:35,187 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-04 21:55:35,187 - pyrogram.session.session - INFO - Session stopped
+2025-04-04 21:55:35,187 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-04 21:55:35,284 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2025-04-04 21:55:35,284 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-04 21:55:35,650 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-04 21:55:35,650 - pyrogram.session.session - INFO - Device: CPython 3.13.2 - Pyrogram 2.0.106
+2025-04-04 21:55:35,650 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
+2025-04-04 21:55:35,650 - pyrogram.session.session - INFO - Session started
+2025-04-04 21:55:35,650 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 21:56:33,635 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-04 21:56:33,637 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-04-04 21:56:33,935 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-04-04 22:23:19,656 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 22:23:19,659 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:23:24,257 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 22:23:24,258 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:24:22,484 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 22:24:22,775 - telethon.client.updates - INFO - Got difference for account updates
+
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +918377996176 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801335391763', 'step': 'started'}, 'phone_auth': {'phone_number': '+8801335391763', 'phone_code_hash': '361df3f1c5db3792a7', 'step': 'waiting_for_code'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'ind', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +918377996176
+Number added to inventory with ID: 67efd82f69508a9d5c83147f
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +918377996176
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +918377996176: 1BVtsOGcBu8XsZy...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +918377996176, forwarding to user 7536665814
+Number +918377996176 is sold to user: None
+Creating new Telethon client for +918377996176
+Client for +918377996176 authorized: True
+Starting OTP monitoring for +918377996176...
+✅ Successfully started OTP monitoring for +918377996176
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +12342063538 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801335391763', 'step': 'started'}, 'phone_auth': {'phone_number': '+8801335391763', 'phone_code_hash': '361df3f1c5db3792a7', 'step': 'waiting_for_code'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'usa', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +12342063538
+Number added to inventory with ID: 67efd92369508a9d5c831480
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +12342063538
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +12342063538: 1AZWarzUBu3NokC...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +12342063538, forwarding to user 7536665814
+Number +12342063538 is sold to user: None
+Creating new Telethon client for +12342063538
+Client for +12342063538 authorized: True
+Starting OTP monitoring for +12342063538...
+✅ Successfully started OTP monitoring for +12342063538
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +12133142172 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801335391763', 'step': 'started'}, 'phone_auth': {'phone_number': '+8801335391763', 'phone_code_hash': '361df3f1c5db3792a7', 'step': 'waiting_for_code'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'usa', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +12133142172
+Number added to inventory with ID: 67efd99169508a9d5c831481
+Cleared temp_add_number data for user 7536665814
+Confirmation message sent for +12133142172
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Generated session string for +12133142172: 1AZWarzUBu4W49W...
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Starting monitoring for OTP codes for +12133142172, forwarding to user 7536665814
+Number +12133142172 is sold to user: None
+Creating new Telethon client for +12133142172
+Client for +12133142172 authorized: True
+Starting OTP monitoring for +12133142172...
+✅ Successfully started OTP monitoring for +12133142172
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin input received: +918377996176 from user: 7536665814
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+User data: {'_id': ObjectId('67eea186e4af7cd30d4d14a0'), 'user_id': 7536665814, 'temp_session_generation': {'phone_number': '+8801335391763', 'step': 'started'}, 'temp_add_number': {'number_type': 'telegram', 'country': 'ind', 'plan': 'regular', 'step': 'enter_phone'}}
+Processing phone number input: +918377996176
+Number +918377996176 already exists in inventory
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Stopping OTP monitoring for number: +918377996176
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Stopping OTP monitoring for number: +918588829002
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True
+Admin check: user_id=7536665814, ADMIN_ID=7536665814, ADMIN_USER_IDS=['7536665814'], result=True2025-04-04 22:33:13,728 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 22:33:13,823 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:33:14,400 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 22:33:14,545 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 22:33:14,545 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:33:38,140 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 22:33:38,232 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:34:38,752 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 22:34:38,851 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:34:39,321 - pyrogram.parser.html - INFO - Unclosed tags: <pre> (x1)
+2025-04-04 22:34:39,448 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.103:443/TcpFull...
+2025-04-04 22:34:39,449 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:34:47,608 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.103:443/TcpFull...
+2025-04-04 22:34:47,740 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.103:443/TcpFull complete!
+2025-04-04 22:54:23,182 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-04 22:54:23,354 - telethon.client.updates - INFO - Got difference for account updates
