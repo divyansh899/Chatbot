@@ -1043,3 +1043,19 @@ pyrogram.errors.exceptions.bad_request_400.QueryIdInvalid: Telegram says: [400 Q
 2025-04-04 23:42:40,379 - pyrogram.session.session - INFO - System: Darwin 24.3.0 (en)
 2025-04-04 23:42:40,379 - pyrogram.session.session - INFO - Session started
 2025-04-04 23:42:40,379 - pyrogram.session.session - INFO - PingTask started
+2025-04-04 23:52:13,325 - pyrogram.dispatcher - ERROR - name 'prices' is not defined
+Traceback (most recent call last):
+  File "/Users/divyanshchugh/Desktop/chat bot/venv/lib/python3.13/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/Users/divyanshchugh/Desktop/chat bot/user_bot.py", line 7486, in admin_customer_list
+    price = prices.get(order["country"], {}).get(order["plan"], 0)
+            ^^^^^^
+NameError: name 'prices' is not defined
+2025-04-04 23:52:17,082 - pyrogram.dispatcher - ERROR - name 'prices' is not defined
+Traceback (most recent call last):
+  File "/Users/divyanshchugh/Desktop/chat bot/venv/lib/python3.13/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/Users/divyanshchugh/Desktop/chat bot/user_bot.py", line 7486, in admin_customer_list
+    price = prices.get(order["country"], {}).get(order["plan"], 0)
+            ^^^^^^
+NameError: name 'prices' is not defined
