@@ -1807,18 +1807,18 @@ if user_data.get("temp_bulk_add", {}).get("step") == "enter_numbers":
     # Process bulk numbers
     added = 0
     errors = []
-        for i, line in enumerate(lines, 1):
-            parts = line.strip().split()
-            if len(parts) < 3:
-                error_msg = f"Line {i}: Not enough information"
-                print(error_msg)
-                errors.append(error_msg)
-                continue
-            
-            phone_number = parts[0].strip()
-            country_code = parts[1].lower().strip()
-            plan_type = parts[2].lower().strip()
-            
+    
+    for i, line in enumerate(lines, 1):
+        parts = line.strip().split()
+        if len(parts) < 3:
+            error_msg = f"Line {i}: Not enough information"
+            print(error_msg)
+            errors.append(error_msg)
+            continue
+        
+        phone_number = parts[0].strip()
+        country_code = parts[1].lower().strip()
+        plan_type = parts[2].lower().strip()
             # Validate phone format
             if not re.match(r'^\+\d{10,15}$', phone_number):
                 error_msg = f"Line {i}: Invalid phone format '{phone_number}'"
