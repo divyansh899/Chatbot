@@ -1799,15 +1799,14 @@ async def handle_admin_input(client, message):
             print(f"Error adding number to inventory: {e}")
             await message.reply_text(f"❌ Error adding number: {str(e)}")
         return
-    
     # Handle bulk add
-    if "temp_bulk_add" in user_data != None and user_data["temp_bulk_add"].get("step") == "enter_numbers":
-        print(f"Processing bulk add input with {len(message.text.strip().split('\\n'))} lines")
-        # Process bulk numbers
-        lines = message.text.strip().split('\n')
-        added = 0
-        errors = []
-        
+if user_data.get("temp_bulk_add", {}).get("step") == "enter_numbers":
+    lines = message.text.strip().splitlines()
+    print(f"Processing bulk add input with {len(lines)} lines")
+    
+    # Process bulk numbers
+    added = 0
+    errors = []
         for i, line in enumerate(lines, 1):
             parts = line.strip().split()
             if len(parts) < 3:
